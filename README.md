@@ -5,7 +5,7 @@
 > ATTENTION:
 >
 > The author here just shares the tools on researching purposes,
-> Using of this Script Is under Your Own Responsibility
+> Using of this Script Is fully under Your Own Responsibility
 
 ## automatically checking VISA available appointment time
 > It will play sound when finding available appointment
