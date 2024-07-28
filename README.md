@@ -3,6 +3,8 @@
 1. automatically checking VISA available appointment time.
 1. automatically fill applicants information to save your time to claim the available slot.
 
+> now this repo is a part of https://github.com/metasong/jsKit/tree/main/src/tools/vfsGlobal
+
 > ATTENTION:
 >
 > The author here just shares the tools on researching purposes,
