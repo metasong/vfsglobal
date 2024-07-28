@@ -1,4 +1,4 @@
-# This project has been moved to https://github.com/metasong/jsKit/tree/main/src/tools/vfsGlobal
+
 # js scripts for https://visa.vfsglobal.com:
 1. automatically checking VISA available appointment time.
 1. automatically fill applicants information to save your time to claim the available slot.
